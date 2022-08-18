@@ -1,2 +1,3 @@
 # Notes:
-## Ou
+## Setting up the environment
+
